@@ -102,7 +102,7 @@ public class NumberToWordConvertor {
 		    		 NumberToWordConvertor obj = new NumberToWordConvertor();
 				        System.out.println( obj.convert(number));
 		    	 }else {
-		    		 System.out.println("Please enter any Integer values upto 999999999");
+		    		 System.out.println("Please enter any Integer value upto 999999999");
 		    	 }
 		    	 String dummy = myObj.nextLine();
 		    	 System.out.println("Do you want to continue press Y for \"Yes\" and N for \"NO\" ");
